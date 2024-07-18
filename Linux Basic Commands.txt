@@ -1,0 +1,59 @@
+NAME:   JAMES KAMAU
+REG NO : C026-01-2114/2023
+
+BASIC LINUX COMMANDS
+
+File and Directory Management:
+
+ls: Lists files and directories in the current working directory.
+cd: Changes the current working directory.
+mkdir: Creates a new directory.
+rmdir: Removes an empty directory.
+rm: Deletes a file or directory (use with caution!).
+cp: Copies files or directories.
+mv: Moves or renames files or directories.
+touch: Creates an empty file.
+pwd: Prints the current working directory.
+
+Permissions and Ownership:
+
+chmod: Changes file or directory permissions.
+chown: Changes file or directory ownership.
+
+Viewing Files:
+
+cat: Displays the contents of a file on the terminal.
+more: Displays a file content one page at a time.
+less: Similar to more but allows scrolling back and forth.
+head: Displays the first few lines of a file.
+tail: Displays the last few lines of a file.
+
+System Information:
+
+uname: Prints information about the operating system.
+hostname: Prints the hostname of the system.
+free: Displays information about free and used memory.
+df: Displays information about disk usage.
+
+Networking:
+
+ping: Checks the network connectivity to a host.
+ifconfig: Displays network interface information (use ip addr on newer systems).
+ssh: Connects to a remote server securely.
+
+Process Management:
+
+ps: Lists currently running processes.
+top: Displays information about CPU, memory, and process usage in real-time.
+kill: Terminates a process.
+
+Text Manipulation:
+
+grep: Searches for a pattern in text files.
+sed: Stream editor for text manipulation.
+awk: Pattern-matching and processing language for text files.
+
+Help:
+
+man: Provides detailed information about a command.
+help: Provides a brief overview of a command (not available for all commands).
